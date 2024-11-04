@@ -17,5 +17,3 @@ This repository contains my custom Neovim configuration files for a tailored dev
    ```
 2. Copy the files to your Neovim config directory; On Windows: ```C:\Users\YourUsername\AppData\Local\nvim\```
 4. Open Neovim and run ```:PackerInstall``` (if using Packer) to install plugins.
-
-You can copy this markdown text and save it as `README.md` in your Neovim configuration repository.
